@@ -1,1 +1,1 @@
-Basic News Page using React.js
+Responsive news page using React.js
